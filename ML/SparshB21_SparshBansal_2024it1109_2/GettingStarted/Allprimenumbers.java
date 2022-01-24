@@ -12,5 +12,6 @@ public class Allprimenumbers{
             System.out.println(i);
             sc.close();
         }
+        sc.close();
        }
 }
